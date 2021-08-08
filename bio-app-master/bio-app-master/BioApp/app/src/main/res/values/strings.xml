@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BioApp</string>
+    <string name="PlantName">Plant Name</string>
+    <string name="GoodName">Good Plant</string>
+    <string name="SearchButton">Search</string>
+    <string name="InsertButton">Insert</string>
+    <string name="EditButton">Edit</string>
+    <string name="BadPlant">Bad Plant</string>
+    <string name="Description">Description</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">login</string>
+    <string name="Register">Register</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="URL">URL</string>
+</resources>
